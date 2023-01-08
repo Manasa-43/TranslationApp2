@@ -40,3 +40,13 @@ button:hover{
     justify-content: space-around;
 
 }
+.footer{
+    inline-size: 45%;
+    overflow-wrap: break-word;
+   
+    margin:auto;
+    padding-bottom:1.5rem;
+}
+
+
+}
